@@ -1,0 +1,11 @@
+{
+"S-P": "{^ ^}",
+"TK-HS": "{^^}",
+"R*L": "{#Return}{^}",
+"R-L": "{^~|\n^}",
+"SKWRAULBGS": "{^\n\n^}{-|}",
+"STPH-B": "{#Down}{^}",
+"STPH-G": "{#Right}{^}",
+"STPH-P": "{#Up}{^}",
+"STPH-L": "{#Left}{^}"
+}

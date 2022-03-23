@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+*.egg-info/
+plover_korean_lite/dictionaries/user.json
+plover_korean_lite/__pycache__

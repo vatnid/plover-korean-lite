@@ -1,0 +1,17 @@
+{
+"TPH-TSDZ": "{PLOVER:SWITCH_SYSTEM:English Stenotype}",
+"KWR-TSDZ": "{PLOVER:SWITCH_SYSTEM:Cantonese (Seoijin)}",
+"-TD": "{#backspace}",
+"-SZ": "{#space}",
+"-HSDZ": "{#return}",
+"SKWR-F": "{#AudioLowerVolume}",
+"SKWR-P": "{#AudioRaiseVolume}",
+"SKWR-FP": "{#AudioMute}",
+"SKWR-V": "{#AudioPrev}",
+"SKWR-T": "{#AudioNext}",
+"SKWR-VT": "{#AudioPause}",
+"#EU": "{#control(option(space))}",
+"#K": "{#command(x)}",
+"#W": "{#command(c)}",
+"#R": "{#command(v)}"
+}
